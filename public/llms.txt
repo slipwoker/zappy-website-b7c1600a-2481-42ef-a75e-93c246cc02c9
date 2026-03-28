@@ -1,6 +1,4 @@
-# ישוב קהילתי - מעלה עמוס — Generative Engine Optimization Map
-
-> תבנה לי אתר לפי התמונות שאתה רואה
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,17 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ישוב קהילתי - מעלה עמוס
-תבנה לי אתר לפי התמונות שאתה רואה
-
-## Target Audience
-- מנהיגים קהילתיים מקומיים
-- משקיעי נדל"ן באזור
-- בעלי עסקים מקומיים
-
-## Industry
-General
-
+## About Business
 ---
 
 # Additional Resources
