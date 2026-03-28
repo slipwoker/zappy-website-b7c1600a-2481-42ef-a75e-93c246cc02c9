@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים למעלה עמוס – ישוב קהילתי ייחודי שמחבר אנשים, מטפח ערכים ובונה עתיד משותף. הצטרפו אלינו וגלו חיים קהילתיים אמיתיים!
+
+### שירותי הקהילה
+https://example.com/community-services
+מגוון שירותי קהילה מקצועיים שנבנו במיוחד עבורכם – חינוך, תרבות, רווחה ועוד. כל מה שצריך כדי לחיות חיים מלאים ומשמעותיים במעלה עמוס!
+
+### אודות הקהילה
+https://example.com/about
+היכירו את מעלה עמוס מקרוב – ישוב עם חזון, היסטוריה עשירה ואנשים מדהימים. גלו מה הופך אותנו לקהילה שכולם רוצים להיות חלק ממנה!
+
+### צור קשר וביקור
+https://example.com/contact
+רוצים לבקר, להצטרף או לשאול שאלה? צרו איתנו קשר עוד היום ונשמח לקבל אתכם בחום. מעלה עמוס מחכה לכם – דלתותינו תמיד פתוחות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
